@@ -1,6 +1,6 @@
 ### Hi
 
-I remembered that this is a thing I can do. Will add to this if I remember.
+I remembered that this is a thing I can do. Will add to this if I think of something.
 
 <!--
 **rbot-github/rbot-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
